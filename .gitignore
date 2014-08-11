@@ -34,3 +34,12 @@ Icon
 # Files that might appear on external disk
 .Spotlight-V100
 .Trashes
+
+errors.txt
+.android.json
+log.txt
+tmp/distribute.txt
+project.json
+tmp/Info.plist
+traceback.txt
+tmp/renpy.exe
